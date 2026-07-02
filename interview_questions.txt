@@ -1,0 +1,179 @@
+Python
+What is Python?
+A. Language
+B. Database
+C. Browser
+D. Operating System
+A
+---
+
+Python
+What is List Comprehension?
+A. Loop
+B. Short way to create list
+C. Function
+D. Module
+B
+---
+
+Python
+What is Lambda Function?
+A. Anonymous Function
+B. Loop
+C. Variable
+D. Class
+A
+---
+
+Python
+Which keyword is used to define a function in Python?
+A. function
+B. define
+C. def
+D. func
+C
+---
+
+Python
+Which data type is mutable in Python?
+A. Tuple
+B. String
+C. List
+D. Integer
+C
+---
+
+C
+Who developed the C programming language?
+A. Dennis Ritchie
+B. James Gosling
+C. Guido van Rossum
+D. Bjarne Stroustrup
+A
+---
+
+C
+Which symbol is used to end a statement in C?
+A. :
+B. .
+C. ;
+D. ,
+C
+---
+
+C
+Which function is the entry point of a C program?
+A. start()
+B. execute()
+C. begin()
+D. main()
+D
+---
+
+C
+Which header file is used for printf()?
+A. string.h
+B. stdio.h
+C. math.h
+D. conio.h
+B
+---
+
+C
+Which loop executes at least once?
+A. for
+B. while
+C. do-while
+D. foreach
+C
+---
+
+Java
+Who developed Java?
+A. Dennis Ritchie
+B. James Gosling
+C. Guido van Rossum
+D. Elon Musk
+B
+---
+
+Java
+Which keyword is used to inherit a class in Java?
+A. inherits
+B. extends
+C. implement
+D. using
+B
+---
+
+Java
+Which method is the entry point of a Java program?
+A. main()
+B. start()
+C. run()
+D. init()
+A
+---
+
+Java
+Which of the following is not a primitive data type in Java?
+A. int
+B. float
+C. String
+D. char
+C
+---
+
+Java
+Java programs are compiled into?
+A. Machine Code
+B. Bytecode
+C. Assembly Code
+D. Binary Code
+B
+---
+
+AIML
+What does AI stand for?
+A. Artificial Intelligence
+B. Automatic Interface
+C. Artificial Internet
+D. Automated Intelligence Machine
+A
+---
+
+AIML
+What does ML stand for?
+A. Machine Learning
+B. Manual Learning
+C. Machine Logic
+D. Modern Language
+A
+---
+
+AIML
+Which programming language is most commonly used in AI and ML?
+A. C
+B. Java
+C. Python
+D. HTML
+C
+---
+
+AIML
+Which library is widely used for Machine Learning in Python?
+A. NumPy
+B. Scikit-learn
+C. OpenCV
+D. Tkinter
+B
+---
+
+AIML
+Which type of learning uses labeled data?
+A. Supervised Learning
+B. Unsupervised Learning
+C. Reinforcement Learning
+D. Deep Learning
+A
+---
